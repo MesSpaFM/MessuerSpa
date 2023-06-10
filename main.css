@@ -2,3 +2,11 @@
 a, u {
     text-decoration: none;
   }
+
+  .background-color{
+    background-color: #251C15;
+  }
+
+  .font-white{
+    color: white;
+  }
